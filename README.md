@@ -5,7 +5,7 @@ I studied Neuroscience and Philosophy in college and have always been curious ab
 I'm looking for an entry level software development position with training and mentorship opportunities to launch my career and catapault my skills to the next level. 
 - 🔭 I’m currently working on honing my interview skills and planning out my job search.
 
-Aside from coding, I have a passion for fitness and lift weights religiously as well as consistently practicing the martial art, Muay Thai.
+Aside from coding, I have a passion for fitness and enjoy lifting weights and practicing the martial art, Muay Thai.
 
 ---Projects---
 
